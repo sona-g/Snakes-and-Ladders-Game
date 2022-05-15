@@ -1,6 +1,13 @@
 
  import "./style.css";
  import $ from "jquery"
+ import diceImages from './images/dice2.png'
+ import diceImages from './images/dice3.png'
+ import diceImages from './images/dice4.png'
+ import diceImages from './images/dice5.png'
+ import diceImages from './images/dice6.png'
+ <img src="imageURL"/>
+
 
  
 
