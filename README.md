@@ -17,13 +17,13 @@ Snakes and Ladders is a worldwide classic board game originated in ancient India
 The historic version had its roots in morality lessons, on which a player's progression up the board represented a life journey complicated by virtues (ladders) and vices (snakes).
 
 ## Deployment
-Access to play the game is here: [https://snakes-and-ladders-game.vercel.app/]
+Access to play the game is here: https://snakes-and-ladders-game.vercel.app/
 
 ## How to Play
 The game is hosted as a 1 player game with starting position on game board at 1. On every roll of dice the player moves up to reach the goal of 100 to WIN the game, while going through the ups and downs of the snake and the ladder.
 
 ## Ideation Sketch
-Before creating the code for the game, I sketched out the different components the game will require based on the mechanics of the game. This helped me ideate which parts of the game will need a functional aspect priority to cretae a work flow and what elements will I need to create the game visually appealing with the help of CSS. 
+Before creating the code for the game, I sketched out the different components the game will require based on the mechanics of the game. This helped me ideate which parts of the game will need a functional aspect priority to create a work flow and what elements will I need to create the game visually appealing with the help of CSS. 
 
 ## Game Architecture
 To conceptualize the game, I reviewed the game structure and its variables required to create the basic game structure. My next step was to understand the basic functions required to play the game and pseudocode them. After these, I created my version with a the variation I wanted to add to the basic game structure.
