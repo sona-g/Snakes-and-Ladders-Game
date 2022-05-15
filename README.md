@@ -17,7 +17,7 @@ Snakes and Ladders is a worldwide classic board game originated in ancient India
 The historic version had its roots in morality lessons, on which a player's progression up the board represented a life journey complicated by virtues (ladders) and vices (snakes).
 
 ## Deployment
-Access to play the game is here: [PLAY GAME](sonakshi.github.io/Snakes-and-Ladders-Game/)
+Access to play the game is here: [https://snakes-and-ladders-game.vercel.app/]
 
 ## How to Play
 The game is hosted as a 1 player game with starting position on game board at 1. On every roll of dice the player moves up to reach the goal of 100 to WIN the game, while going through the ups and downs of the snake and the ladder.
